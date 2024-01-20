@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Methods of oceanographic data analysis
+title: Oceanographic Methods and Data Analysis
 nav_exclude: true
 seo:
   type: Course
-  name: Methods of oceanographic data analysis
+  name: Oceanographic Methods and Data Analysis
 ---
 
 # {{ site.tagline }}
@@ -14,9 +14,8 @@ seo:
 
 ![B-SOSE model output](/OCEAN_215/assets/images/bsose_3d.jpeg){:height="350px" width="630px"}
 
-Welcome to the course website for OCEAN 215, as taught in Autumn 2020 by two graduate students, Ethan Campbell and Katy Christensen. The goal of this course is to **equip undergraduate students to analyze oceanographic data with confidence using the Python programming language**.
+Welcome to the course website for OMDA 11:628:364, as taught in Spring 2024 by Professor David Bushek and Professor Travis Miles. The goal of this course is to **equip undergraduate students to analyze oceanographic data with confidence using the Python programming language and to teach them to collect oceanographic data using observational methods by letting them go on the site**.
 
-OCEAN 215 has been offered since 2015 by Prof. [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/). In 2020, during the COVID-19 pandemic, we completely redesigned the course using a flipped, virtual instructional approach. All materials here are original.
 
 On this website, you can find:
 
