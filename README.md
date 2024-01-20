@@ -1,4 +1,4 @@
-# Oceanographic-Method-and-Data-Analysis 11:628:364 Spring 2024
+# Oceanographic Method and Data Analysis 11:628:364 Spring 2024
 This repository contains all the files and code used to teach Oceanographic Method and Data Analysis in spring 2024 at Rutgers University.
 **Professors**:
 
