@@ -21,4 +21,4 @@ Lecture 1 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 [![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange)](https://colab.research.google.com/github/Sumanshekhar17/Oceanographic-Method-and-Data-Analysis/blob/main/intro-to-python.ipynb)
 
 Lecture 2 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sumanshekhar17/Oceanographic-Method-and-Data-Analysis/main) 
-[![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange)](https://colab.research.google.com/github/Sumanshekhar17/Oceanographic-Method-and-Data-Analysis/blob/main/intro-to-python.ipynb)
+[![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange)](https://colab.research.google.com/github/Sumanshekhar17/Oceanographic-Method-and-Data-Analysis/blob/main/ctd_empty.ipynb)
